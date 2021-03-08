@@ -28,3 +28,7 @@ CODER
 ```-network```
 
 ```-os```
+
+# Previous commands
+
+```-ping```
